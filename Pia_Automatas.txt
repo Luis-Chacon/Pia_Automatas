@@ -1,0 +1,9 @@
+programafinal12;
+iniciar
+leer 86;
+leer 95;
+leer 84;
+p:= i+j*2;
+q:= (p*k)/50;
+imprimir q;
+terminar.
